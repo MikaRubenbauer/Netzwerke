@@ -1,3 +1,4 @@
+
 # Netzwerke
 
 A Project to create a Network
@@ -6,8 +7,5 @@ A Project to create a Network
 
 ## Documentation
 
-[Documentation German](Netzwerke/Filius%20Eigenes&20Netzwerk.pdf)
-
-
-
+[Documentation German](./Netzwerke/Filius%20Eigenes&20Netzwerk.pdf)
 
